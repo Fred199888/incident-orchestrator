@@ -1,0 +1,2 @@
+requests>=2.31.0
+tencentcloud-sdk-python-cls>=3.0.1000

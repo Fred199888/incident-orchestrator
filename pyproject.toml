@@ -1,0 +1,9 @@
+[project]
+name = "incident-orchestrator"
+version = "0.1.0"
+description = "告警驱动的 Claude Code 编排服务"
+requires-python = ">=3.11"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.backends._legacy:_Backend"
